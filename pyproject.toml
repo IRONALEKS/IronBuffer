@@ -1,0 +1,8 @@
+[project]
+name = "IronBuffer"
+version = "1.0.0"
+readme = "README.md"
+description = "Small reliable java like ByteBuffer"
+authors = [{name = "Aleks Karbazal"}]
+license = {text = "MIT License"}
+requires-python = ">=3.12"
